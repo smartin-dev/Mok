@@ -1,6 +1,6 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
   padding: 2rem;
   text-align: center;
 }
@@ -39,4 +39,21 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.hoverable-row:hover {
+  background-color: lightgray; /* Change this to your desired background color */
+}
+
+.colored-row {
+  background-color: lightblue; /* Change this to your desired background color */
+}
+
+.filter-input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 200px; /* Adjust width as needed */
+  margin-right: 10px; /* Add margin to separate from buttons */
 }
