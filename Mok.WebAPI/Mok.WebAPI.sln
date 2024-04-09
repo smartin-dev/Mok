@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mok.WebAPI", "Mok.WebAPI\Mok.WebAPI.csproj", "{5EFF5FE4-C795-46FD-9019-28A4BEBF6057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFF5FE4-C795-46FD-9019-28A4BEBF6057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFF5FE4-C795-46FD-9019-28A4BEBF6057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFF5FE4-C795-46FD-9019-28A4BEBF6057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFF5FE4-C795-46FD-9019-28A4BEBF6057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDBD139-46E3-4009-A33A-C96C281E7038}
+	EndGlobalSection
+EndGlobal

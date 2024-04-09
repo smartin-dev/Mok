@@ -1,0 +1,6 @@
+@Mok.WebAPI_HostAddress = http://localhost:5196
+
+GET {{Mok.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
